@@ -15,7 +15,7 @@ import requests
 init(autoreset=True)
 
 accounts = [
-            # You accounts
+            # Your accounts
             ]
 
 ce = eospy.cleos.Cleos(url='https://wax.pink.gg') # or https://wax.cryptolions.io
